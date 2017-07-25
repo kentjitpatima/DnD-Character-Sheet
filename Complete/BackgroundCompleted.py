@@ -1,3 +1,4 @@
+#Shortened code
 ACOLYTE = {
     "Description" : "Description: You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine." ,
     "Skill Proficiencies" : "Skill Proficiencies: Insight, Religion" ,

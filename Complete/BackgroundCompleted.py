@@ -747,5 +747,3 @@ def choose_flaw():
 choose_flaw()
 
 print '\n' +"This is your BACKGROUND:"+ '\n' +"You are a(n) %s!" % player_background[0]+ '\n' + "TRAIT: " + player_trait[0]+ '\n' +"IDEAL: " + player_ideal[0]+ '\n' + "BOND: " +player_bond[0]+ '\n' +"FLAW: " + player_flaw[0] + '\n'
-
-dick = raw_input("thanks press something to exit ")
